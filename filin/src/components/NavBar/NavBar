@@ -1,0 +1,14 @@
+const NavBar = () => {
+    return (
+        <nav>
+            <h3>Filin</h3>
+            <div>
+                <buttom>Servicios</buttom>
+                <buttom>Plantas</buttom>
+                <buttom>Objetos</buttom>
+            </div>
+        </nav>
+    )
+}
+
+export default NavBar
